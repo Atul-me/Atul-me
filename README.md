@@ -1,5 +1,5 @@
 ### Hi there, I'm Atul 👋
-- 🔭 I’m currently working on Website Development(MERN Stack) and Android Development (Flutter & Dart)
+- 🔭 I’m currently working with the dynamic realms of (MERN Stack) and (Flutter & Dart).
 - 👨‍💻 Full Stack Developer
 - 📚 What do I believe? One more try...
 - 📫 How to reach me: LinkedIn - @Atul-me
