@@ -1,7 +1,6 @@
 ### Hi there, I'm Atul 👋
-- 🔭 I’m currently working on Website (MERN Stack) and Android Development (Dart)
-- A Full Stack Web developer🎯 and designer🎨 from India.
-- 👨‍💻 Full Stack MERN Developer
+- 🔭 I’m currently working on Website Development(MERN Stack) and Android Development (Flutter & Dart)
+- 👨‍💻 Full Stack Developer
 - 📚 What do I believe? One more try...
 - 📫 How to reach me: LinkedIn - @Atul-me
 
